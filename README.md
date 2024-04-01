@@ -1,4 +1,4 @@
-![Screenshot 2024-04-01 023249](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/3aebe508-9679-433b-8eed-268907746eea)![Screenshot 2024-04-01 023330](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/16d15637-8543-43a1-9fc5-b01103cf51f8)![Screenshot 2024-04-01 023415](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/35c6f0f9-4bbf-42d0-a4e6-510babbb38e4)Introducing my debut Power BI dashboard project! This dashboard showcases an exploration into data visualization techniques using sales data. From analyzing multiple chart types to refining formatting and drill-through functionalities, this project marks the beginning of my journey into the world of data visualization.
+Introducing my debut Power BI dashboard project! This dashboard showcases an exploration into data visualization techniques using sales data. From analyzing multiple chart types to refining formatting and drill-through functionalities, this project marks the beginning of my journey into the world of data visualization.
 
 Dataset:
 
