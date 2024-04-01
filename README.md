@@ -15,10 +15,11 @@ Additional Information:
 - **Sales Analysis**: The dashboard provides insights into sales trends, product performance, and regional analysis.
 - **Interactivity**: Users can interact with various elements of the dashboard, such as filtering data by date range or product category.
 - **Drill-Through**: Drill-through functionalities allow for deeper exploration of specific data points, enhancing analytical capabilities.
-![Screenshot 2024-04-01 023415](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/76b2f363-e510-424b-baba-8490411a1673)
-![Screenshot 2024-04-01 023330](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/c10adaed-f6d5-47f0-83bd-c956b1259a62)
-![Screenshot 2024-04-01 023249](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/16681ff7-1dc2-4511-85f1-f26cb47b9022)
 
+
+![Screenshot 2024-04-01 023249](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/16681ff7-1dc2-4511-85f1-f26cb47b9022)
+![Screenshot 2024-04-01 023330](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/c10adaed-f6d5-47f0-83bd-c956b1259a62)
+![Screenshot 2024-04-01 023415](https://github.com/RadwaEsamiel/Global-Super-Store-Sales-Analysis-/assets/151566696/76b2f363-e510-424b-baba-8490411a1673)
 
 How to Use:
 
